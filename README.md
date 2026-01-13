@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Agustín
 
-<!--
-**Agus-Sosa/Agus-Sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de programación  
 
-Here are some ideas to get you started:
+🎓 Estudiante de Tecnicatura en Programación (UTN)  
+Actualmente cursando el ultimo cuatrimestre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Frontend con React | Backend con Node.js  
+🐧 Interesado en Linux y desarrollo web
+
+## 🛠️ Tecnologías
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+- HTML / CSS
+- Git / GitHub
+
+## 📌 Proyectos destacados
+- 🔹 Portfolio (React + Tailwind)
+- 🔹 Clon de Telegram (Socket.io)
+- 🔹 E-commerce Backend (Node.js + MongoDB)
+
+## 📚 Formación
+- Desarrollo Front End React — Coderhouse
+- Desarrollo Backend — Coderhouse
+- Tecnicatura en Programación (UTN)
+
+## 📫 Contacto
+- LinkedIn
+- Email
