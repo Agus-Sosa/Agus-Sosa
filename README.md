@@ -17,11 +17,6 @@ Actualmente cursando el ultimo cuatrimestre
 - HTML / CSS
 - Git / GitHub
 
-## 📌 Proyectos destacados
-- 🔹 Portfolio (React + Tailwind)
-- 🔹 Clon de Telegram (Socket.io)
-- 🔹 E-commerce Backend (Node.js + MongoDB)
-
 ## 📚 Formación
 - Desarrollo Front End React — Coderhouse
 - Desarrollo Backend — Coderhouse
