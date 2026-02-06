@@ -23,5 +23,5 @@ Actualmente cursando el ultimo cuatrimestre
 - Tecnicatura en Programación (UTN)
 
 ## 📫 Contacto
-- LinkedIn
-- Email
+- [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-sosa-a6b29b248)
+- [Email](mailto:sosaagustin455@outlook.com)
