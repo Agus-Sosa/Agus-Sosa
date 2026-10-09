@@ -19,10 +19,6 @@
 
 **Herramientas:** Git, GitHub
 
-## 📂 Proyectos destacados
-- [ReactMonster](https://github.com/Agus-Sosa/ReactMonster): breve descripción de qué hace y con qué stack.
-- [Backend-Proyecto](https://github.com/Agus-Sosa/Backend-Proyecto): breve descripción de qué hace y con qué stack.
-
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/agustinsosa-dev/)
 - [Email](mailto:sosaagustin455@outlook.com)
