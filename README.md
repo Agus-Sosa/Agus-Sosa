@@ -1,33 +1,28 @@
 # 👋 Hola, soy Agustín
 
-🎓 Tecnicatura en Programación — UTN (egresando 2026)  
-💻 Desarrollador Full Stack | Backend con ASP.NET Core | Frontend con React  
-🏗️ Interesado en buenas prácticas de desarrollo y arquitectura de software
+**Desarrollador Full Stack Junior** | C# · ASP.NET Core · React
+🏢 Cofundador de [Ava Solution](https://avasolution.com.ar): sistemas POS y de gestión para comercios, bares y restaurantes, y software a medida.
+🎓 Tecnicatura Universitaria en Programación — UTN (egreso 2026)
+📍 Rosario, Santa Fe, Argentina
+🔎 Buscando mi primera oportunidad como Junior o Trainee
 
-## 🛠️ Tecnologías
+## 🛠️ Stack
 
-**Backend**
-- C# / ASP.NET Core
-- Entity Framework Core
-- SQL Server
-- Node.js / Express
+**Principal (uso en Ava Solution)**
+- Backend: C#, ASP.NET Core, Entity Framework Core
+- Frontend: React, JavaScript, HTML, CSS
+- Base de datos: PostgreSQL
+- Conceptos: arquitectura en capas, Clean Architecture, autenticación con JWT
 
-**Frontend**
-- JavaScript / React
-- HTML / CSS
+**Conocimientos adicionales**
+- Node.js, Express, MongoDB, MySQL, Python, Flask
 
-**Herramientas**
-- Git / GitHub
-- MongoDB
-- JWT
+**Herramientas:** Git, GitHub
 
-## 📚 Formación
-
-- Tecnicatura en Programación — UTN (2024-2026)
-- Desarrollo Front End React — Coderhouse
-- Desarrollo Backend — Coderhouse
+## 📂 Proyectos destacados
+- [ReactMonster](https://github.com/Agus-Sosa/ReactMonster): breve descripción de qué hace y con qué stack.
+- [Backend-Proyecto](https://github.com/Agus-Sosa/Backend-Proyecto): breve descripción de qué hace y con qué stack.
 
 ## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-sosa-a6b29b248)
+- [LinkedIn](https://www.linkedin.com/in/agustinsosa-dev/)
 - [Email](mailto:sosaagustin455@outlook.com)
